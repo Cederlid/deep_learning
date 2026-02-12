@@ -3,4 +3,6 @@
 /SeoulBikeData.csv
 /images
 /data/cifar-10-python.tar.gz
-/data/cifar-10-batches-py/
+/data/cifar-10-batches-py
+/deepdeep 
+/transformers
